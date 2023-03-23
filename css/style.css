@@ -1,0 +1,20 @@
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+.header-title{
+    vertical-align: middle;
+    display: inline-block;
+    color: #274C5B;
+    font-size: 20px;
+    padding-left: 30px;
+    margin: 84px 0 84px 0;
+    font-family: 'Roboto';
+    
+}
+.logo{
+    vertical-align: middle;
+    padding: 150px;
+
+}
+/* end header */
